@@ -1,1 +1,148 @@
-Invalid macro definition.
+    1  ssh
+    2  ssh-keygen
+    3  cat .ssh/
+    4  cat .ssh/id_ed25519
+    5  cat ~/.ssh/id_rsa.pub
+    6  cat ~/.ssh/id_rsa.pub
+    7  cd
+    8  .ssh   
+    9  cat .ssh/id_ed25519.pub
+   10  ssh -i ~/.ssh/id_rsa ec2-user@linux.itcareerhub.de
+   11  git init
+   12  git add Turms.jpg
+   13  git add turms
+   14  cd /git
+   15  cd /git/
+   16  pwd
+   17  ls
+   18  cd git/
+   19  ls
+   20  git add turms.jpg
+   21  git commit -m "Added photo"
+   22  git config --global user.email "vladgabelko03@gmail.com"
+   23  git config --global user.name "Lavder12"
+   24  git commit -m "Added photo"
+   25  git branch -M main
+   26  git remote add origin git@github.com:Lavder12/git_intro.git
+   27  git push -u origin main
+   28  git push -u origin main
+   29  git push -u origin main
+   30  git pull -u origin main
+   31  git fetch origin master
+   32  git fetch origin master
+   33  git fetch origin main
+   34  git merge  master
+   35  git merge  main
+   36  git fetch origin main:tmp
+   37  git rebase tmp
+   38  git push origin HEAD:main
+   39  git branch -D tmp
+   40  git push -u origin main
+   41  cd
+   42  git init
+   43  root
+   44  cd
+   45  cd
+   46  cd
+   47  ls
+   48  cd /Videos
+   49  cd /Videos/
+   50  git init
+   51  git add
+   52  git clone
+   53  git clone git@github.com:Lavder12/Vlad.git
+   54  cd Vlad
+   55  git branch
+   56  git branch
+   57  ll
+   58  git init
+   59  git clone git@github.com:Lavder12/Vlad2.git
+   60  cd Vlad2
+   61  git branch
+   62  git checkout -b gitignore
+   63  nano .gitignore
+   64  env
+   65  export EDITOR=nano
+   66  git branch
+   67  git add .gitignore 
+   68  git commit -m "Add .gitignore file"
+   69  git push
+   70  git push --set-upstream origin gitignore
+   71  ssh -i ~/.ssh/id_rsa ec2-user@linux.itcareerhub.de
+   72  ssh -i ~/.ssh/id_rsa ec2-user@linux.itcareerhub.de
+   73  git init
+   74  git init
+   75  git add Lessons
+   76  git commit
+   77  git init
+   78  git remote add origin https://github.com/Lavder12/Home1.git
+   79  git remote add https://github.com/Lavder12/Home1.git
+   80  git add https://github.com/Lavder12/Home1.git
+   81  git init
+   82  git add README.md
+   83  git remote add origin https://github.com/Lavder12/Home1.git
+   84  git clone 
+   85  git clone https://github.com/Lavder12/Home1.git
+   86  git init
+   87  git add README.md
+   88  git checkout -b feature
+   89  git add README.md
+   90  git init
+   91  git add README.md
+   92  git clone https://github.com/Lavder12/Home.git
+   93  git init 
+   94  git checkout -b feature
+   95  git checkout -b feature
+   96  git checkout -b feature
+   97  git checkout -b feature
+   98  git checkout -b feature
+   99  git clone https://github.com/Lavder12/Home.git
+  100  git add
+  101  git add ..
+  102  git init
+  103  git add ..
+  104  git checkout main
+  105  git checkout feature 
+  106  git add ..
+  107  git add
+  108  git add.
+  109  git add..
+  110  git add ..
+  111  ls
+  112  cd Home
+  113  git add ..
+  114  cd
+  115  ls
+  116  cd Desktop/
+  117  git clone https://github.com/Lavder12/Home.git
+  118  cd Home/
+  119  cd ..
+  120  git checkout main 
+  121  cd Home/
+  122  git checkout -b feature
+  123  echo "#Home" > README.md
+  124  echo "node_modules/" >> .gitignore
+  125  git add README.md .gitignore
+  126  git add README.md .gitignore
+  127  git commit -m "Add README.md and update .gitignore"
+  128  git push origin feature
+  129  git push origin feature
+  130  git commit --amend -m "Add README.md and update .gitignore - ammend"
+  131  git push origin feature --force
+  132  git checkout main
+  133  git push origin feature --force
+  134  git checkout main
+  135  git merge feature
+  136  git push origin main
+  137  git checkout main
+  138  git branch 
+  139  git checkout master
+  140  git checkout -b main
+  141  git merge feature
+  142  git checkout main
+  143  git push origin main
+  144  doskey /history > history.txt
+  145  git add history.txt
+  146  git commit -m "Add history.txt with command history"
+  147  git push origin main
+  148  history > history.txt
